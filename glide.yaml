@@ -1,0 +1,4 @@
+package: github.com/ghostbar/combinatory.go
+import:
+- package: github.com/docopt/docopt.go
+  version: ^0.6.2
